@@ -1,0 +1,2 @@
+[dependencies]
+rand = { git = "https://github.com/rust-lang-nursery/rand" }
